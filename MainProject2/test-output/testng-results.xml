@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-19T15:12:22 IST" name="Default suite" finished-at="2022-03-19T15:12:44 IST" duration-ms="22729">
+    <groups>
+    </groups>
+    <test started-at="2022-03-19T15:12:22 IST" name="Default test" finished-at="2022-03-19T15:12:44 IST" duration-ms="22729">
+      <class name="adminSection.Pages.SprAdminStaff">
+        <test-method is-config="true" signature="loginsetup()[pri:0, instance:adminSection.Pages.SprAdminStaff@1ca3b418]" started-at="2022-03-19T15:12:22 IST" name="loginsetup" finished-at="2022-03-19T15:12:42 IST" duration-ms="20327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginsetup -->
+        <test-method signature="courses()[pri:1, instance:adminSection.Pages.SprAdminStaff@1ca3b418]" started-at="2022-03-19T15:12:42 IST" name="courses" finished-at="2022-03-19T15:12:44 IST" duration-ms="2162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courses -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:adminSection.Pages.SprAdminStaff@1ca3b418]" started-at="2022-03-19T15:12:44 IST" name="closeBrowser" finished-at="2022-03-19T15:12:44 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- adminSection.Pages.SprAdminStaff -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
